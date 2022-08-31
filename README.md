@@ -21,7 +21,7 @@ ReactJS# | Typescript
 
 ## Acknowledgements
 
- - [ReactJS - RocketSeat Ignite](https://app.rocketseat.com.br/node/chapter-i-6)
+ - [ReactJS - RocketSeat Ignite](https://www.rocketseat.com.br/)
  - npm install - install dependencies
  - npm run dev - run the project
 
